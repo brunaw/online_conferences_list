@@ -4,6 +4,7 @@ A list of Data Science/ML/Programming (mainly) conferences/meetups that went onl
 
 # Machine Learning
   - [ICML](https://icml.cc/), 12-18 July, **fully online**
+  - [Nubank Meetups](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/), PT-BR, **happening fully online for now**
 
 # Data Science
 
@@ -15,6 +16,7 @@ A list of Data Science/ML/Programming (mainly) conferences/meetups that went onl
 
 - [useR!2020](https://user2020.r-project.org/), 7-10 July, **No info yet**
 - [eRum 2020](https://2020.erum.io/), 27-30 May, **not confirmed but likely to be fully online** 
+- [DC satuRday 2020](https://twitter.com/Satrdays_DC/status/1242360264558854145/photo/1), 28 March, **fully online**
 
 
 # R-Ladies Meetups
