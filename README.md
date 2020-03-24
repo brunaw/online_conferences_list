@@ -16,6 +16,10 @@ A list of Data Science/ML/Programming (mainly) conferences/meetups that went onl
 - [useR!2020](https://user2020.r-project.org/), 7-10 July, **No info yet**
 - [eRum 2020](https://2020.erum.io/), 27-30 May, **not confirmed but likely to be fully online** 
 
+
+# R-Ladies Meetups
+  - Upcoming events, many of which online: https://www.meetup.com/pro/rladies
+
 # `Julia`
 
   - [JuliaCon](https://juliacon.org/2020/), 27-30 July, **not confirmed but likely to be fully online** 
