@@ -18,7 +18,7 @@ A list of Data Science/ML/Programming (mainly) conferences/meetups that went onl
 
 
 # R-Ladies Meetups
-  - Upcoming events, many of which online: https://www.meetup.com/pro/rladies
+  - Upcoming events, many of which will be online: https://www.meetup.com/pro/rladies
 
 # `Julia`
 
