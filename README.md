@@ -1,2 +1,24 @@
-# online_conferences_list
-A list of Data Science/ML/Programming (mainly) conferences/meetups that went online due to COVID19
+Online Conferences list
+
+A list of Data Science/ML/Programming (mainly) conferences/meetups that went online due to COVID19. Some of such conferences decided to go free, some have not, so please check that before participating. This repository does not list cancelled conferences, so if you can't find something here, the conference might not be happening anymore. Also, feel free to add links to this repository through a `pull request`.
+
+# Machine Learning
+  - [ICML](https://icml.cc/), 12-18 July, **fully online**
+
+# Data Science
+
+# Statistics
+
+  - [ISEC 2020](http://www.isec2020.org/), 22-26 June, **fully online**
+
+# `R` 
+
+- [useR!2020](https://user2020.r-project.org/), 7-10 July, **No info yet**
+- [eRum 2020](https://2020.erum.io/), 27-30 May, **not confirmed but likely to be fully online** 
+
+# `Julia`
+
+  - [JuliaCon](https://juliacon.org/2020/), 27-30 July, **not confirmed but likely to be fully online** 
+
+# `python`
+
