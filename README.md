@@ -11,10 +11,10 @@ A list of Data Science/ML/Programming (mainly) conferences/meetups that went onl
 # Statistics
 
   - [ISEC 2020](http://www.isec2020.org/), 22-26 June, **fully online**
-
+  - [JSM 2020](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm), 1-6 August, **fully online**
 # `R` 
 
-- [useR!2020](https://user2020.r-project.org/), 7-10 July, **No info yet**
+- [useR!2020](https://user2020.r-project.org/), 7-10 July, **In person conference canceled**
 - [eRum 2020](https://2020.erum.io/), 27-30 May, **not confirmed but likely to be fully online** 
 - [DC satuRday 2020](https://twitter.com/Satrdays_DC/status/1242360264558854145/photo/1), 28 March, **fully online**
 
